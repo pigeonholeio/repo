@@ -1,0 +1,13 @@
+Package: pigeonhole
+Version: 1.0.51
+Architecture: amd64
+Priority: optional
+Section: utils
+Filename: pool/main/p/pigeonhole/pigeonhole_1.0.51_amd64.deb
+Size: 9358016
+SHA256: 2a24ce1790adcd66b84402fc78245ef61a8018c7347f0b14658daa189a32809f
+SHA1: b4091d73de224bd41def404d61ef03680b414b97
+MD5sum: 79cd127f3edc772e56d114da156488c2
+Description: pigeonhole CLI
+Maintainer: PigeonHole <info@pigeono.io>
+

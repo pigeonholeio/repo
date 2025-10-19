@@ -1,0 +1,5 @@
+Component: main
+Origin: Pigeonhole
+Label: Pigeonhole
+Architecture: amd64
+Description: Pigeonhole APT repository for Ubuntu Oracular
