@@ -4,6 +4,7 @@ Codename: oracular
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Oracular
+SignWith: BCF5FB0D9B5BAB90
 
 Origin: Pigeonhole
 Label: Pigeonhole
@@ -11,6 +12,7 @@ Codename: noble
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Noble
+SignWith: BCF5FB0D9B5BAB90
 
 Origin: Pigeonhole
 Label: Pigeonhole
@@ -18,6 +20,7 @@ Codename: plucky
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Plucky
+SignWith: BCF5FB0D9B5BAB90
 
 Origin: Pigeonhole
 Label: Pigeonhole
@@ -25,4 +28,5 @@ Codename: questing
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Questing
+SignWith: BCF5FB0D9B5BAB90
 

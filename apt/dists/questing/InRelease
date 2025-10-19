@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: questing
@@ -17,3 +20,10 @@ SHA256:
  53035ad2a8f044552b7506daf2add3b3bf100726ba1a170b89b346dade778414 396 main/binary-amd64/Packages
  b9fa7ebf74e58fe63ba8e4648b840d26af9c9766f2193d8289c91577cb04d7f2 300 main/binary-amd64/Packages.gz
  018d9927dc1fe5501aed89518ca985153c11abc6165a4f5b2be8e1c28d8fb986 132 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaPVoiwAKCRC89fsNm1ur
+kDksAQCJz/kBB6XaxjWcKVX8WqyEBzu5oKrJq+52IO01lGbL+QEAti/7TJ5DmoZ0
+mNqmND6Gf99UIDnVtYKpcXSqtzV2CQ8=
+=PeKQ
+-----END PGP SIGNATURE-----
