@@ -12,15 +12,15 @@ Description: pigeonhole CLI
 Maintainer: PigeonHole <info@pigeono.io>
 
 Package: pigeonhole-cli
-Version: 1.0.57
+Version: 1.0.58
 Architecture: amd64
 Priority: optional
 Section: utils
-Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.0.57_amd64.deb
-Size: 9357860
-SHA256: 0f7bf52a0bcf0e124c5654e18768cd9c6ef2b2b007502b7c8ab5e11173b1c6ed
-SHA1: 6631af84ab41c256b3761fb4f74c07d6d1a06dac
-MD5sum: def7a74ba421dc73e13a3777aa9b1b3f
+Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.0.58_amd64.deb
+Size: 9358398
+SHA256: 066744b62a5a4b494974ba603de8563c36cf88b1082064b2e8946eca00dcddf1
+SHA1: b94157c5443c02d39e090371756ea2ea36b0070e
+MD5sum: 9220b2130202f0a227f634c53929c3ef
 Description: PigeonHole cli is the modern way to securely send secrets, files or any text
 Maintainer: PigeonHole <info@pigeono.io>
 
