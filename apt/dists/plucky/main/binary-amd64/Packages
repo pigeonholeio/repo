@@ -11,3 +11,16 @@ MD5sum: 79cd127f3edc772e56d114da156488c2
 Description: pigeonhole CLI
 Maintainer: PigeonHole <info@pigeono.io>
 
+Package: pigeonhole-cli
+Version: 1.0.57
+Architecture: amd64
+Priority: optional
+Section: utils
+Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.0.57_amd64.deb
+Size: 9357860
+SHA256: 0f7bf52a0bcf0e124c5654e18768cd9c6ef2b2b007502b7c8ab5e11173b1c6ed
+SHA1: 6631af84ab41c256b3761fb4f74c07d6d1a06dac
+MD5sum: def7a74ba421dc73e13a3777aa9b1b3f
+Description: PigeonHole cli is the modern way to securely send secrets, files or any text
+Maintainer: PigeonHole <info@pigeono.io>
+
