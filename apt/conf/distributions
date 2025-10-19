@@ -1,0 +1,28 @@
+Origin: Pigeonhole
+Label: Pigeonhole
+Codename: oracular
+Architectures: amd64
+Components: main
+Description: Pigeonhole APT repository for Ubuntu Oracular
+
+Origin: Pigeonhole
+Label: Pigeonhole
+Codename: noble
+Architectures: amd64
+Components: main
+Description: Pigeonhole APT repository for Ubuntu Noble
+
+Origin: Pigeonhole
+Label: Pigeonhole
+Codename: plucky
+Architectures: amd64
+Components: main
+Description: Pigeonhole APT repository for Ubuntu Plucky
+
+Origin: Pigeonhole
+Label: Pigeonhole
+Codename: questing
+Architectures: amd64
+Components: main
+Description: Pigeonhole APT repository for Ubuntu Questing
+
