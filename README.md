@@ -34,7 +34,7 @@ enabled=1
 gpgcheck=1
 gpgkey=https://packages.pigeono.io/gpg.asc
 EOF
-sudo yum install pigeonhole-cli
+sudo dnf install -y pigeonhole-cli
 ```
 
 # 🧭 Learn More
