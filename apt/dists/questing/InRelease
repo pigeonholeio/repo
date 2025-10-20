@@ -4,26 +4,26 @@ Hash: SHA512
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: questing
-Date: Sun, 19 Oct 2025 23:46:51 UTC
+Date: Mon, 20 Oct 2025 19:49:27 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Questing
 MD5Sum:
- 8a1df54bf9a218080aabf94b1237e298 866 main/binary-amd64/Packages
- b564bbd23ca7a3bf74fe2e45a1b107f9 475 main/binary-amd64/Packages.gz
+ 40716c4a0934c9a5ad7c353b2fb77912 868 main/binary-amd64/Packages
+ 88fd7cfd39c4e01e97c577ea5c8bb13e 488 main/binary-amd64/Packages.gz
  bb94fb0fab58b3bed9529f241d1909d9 132 main/binary-amd64/Release
 SHA1:
- ea29d580aceed07f22e4ccfb5ee536b96987e08c 866 main/binary-amd64/Packages
- 7a3d413002b4b4266c32bb4ec026e1b3c6faed31 475 main/binary-amd64/Packages.gz
+ fb76ba3aae98d38cb32b87041158a2e9925dd172 868 main/binary-amd64/Packages
+ 27191de028ffc0d42a1bac953f234fbe29a99851 488 main/binary-amd64/Packages.gz
  873fd669e9ab6d660c2f50623a0a80abc7741975 132 main/binary-amd64/Release
 SHA256:
- 34f0a204944cdb91668128b0e0cf03ba8594e2faf331e0d34218d2820d6fa3eb 866 main/binary-amd64/Packages
- d342fdac9b847d285960eab37ccac92a1451e88182ec5c7a293fcdf74d6fedf0 475 main/binary-amd64/Packages.gz
+ ba506253878a56bbefc1cb40d9f7017f1292f34df24c5e5ffd89b55d8166cdf6 868 main/binary-amd64/Packages
+ b65bd759bbf7f7812411ffafc2becd666322dada8fc8436606272dd91f27c63c 488 main/binary-amd64/Packages.gz
  018d9927dc1fe5501aed89518ca985153c11abc6165a4f5b2be8e1c28d8fb986 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaPV4awAKCRC89fsNm1ur
-kDCQAP0TOxyVrd06olDlwQB2ZIGKhfI9kP1e5CULwWcXlMV+9gD/ZXn5DOlLdYlb
-ZJVzfxgMdcuBq1DWifrU4KSQD9pcSgo=
-=cwV/
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaPaSRwAKCRC89fsNm1ur
+kKQLAP0UUnF3wXgeIpVP6m2bZVCmkPtVFtP7LXQO11RLh9IFogEA/M4MK9FOkZkX
+aiw8iavp+rJQJrECUQxyaPdDb1+56g0=
+=723b
 -----END PGP SIGNATURE-----
