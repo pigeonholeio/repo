@@ -1,19 +1,19 @@
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: noble
-Date: Mon, 20 Oct 2025 19:49:27 UTC
+Date: Mon, 20 Oct 2025 19:54:13 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Noble
 MD5Sum:
- 40716c4a0934c9a5ad7c353b2fb77912 868 main/binary-amd64/Packages
- 88fd7cfd39c4e01e97c577ea5c8bb13e 488 main/binary-amd64/Packages.gz
+ 244ca8fca441e244fc9d5a29bd2c8e91 868 main/binary-amd64/Packages
+ 57be5acb62d32049c5d710daa4ba0ff1 486 main/binary-amd64/Packages.gz
  4c021a937c5c66a82e085be86a236497 129 main/binary-amd64/Release
 SHA1:
- fb76ba3aae98d38cb32b87041158a2e9925dd172 868 main/binary-amd64/Packages
- 27191de028ffc0d42a1bac953f234fbe29a99851 488 main/binary-amd64/Packages.gz
+ f7362e1b991ece4477aa10e76c845507364dfa9a 868 main/binary-amd64/Packages
+ a3a8dc1a8a2336bab7892210d4950dc21940bf5e 486 main/binary-amd64/Packages.gz
  6e45b0bd19734185ee3b9728e50a808f2a5ef153 129 main/binary-amd64/Release
 SHA256:
- ba506253878a56bbefc1cb40d9f7017f1292f34df24c5e5ffd89b55d8166cdf6 868 main/binary-amd64/Packages
- b65bd759bbf7f7812411ffafc2becd666322dada8fc8436606272dd91f27c63c 488 main/binary-amd64/Packages.gz
+ bebdd0797a0d2c7e11da73c199f77e2dc70ff1ad991a4767ec930d6eaa0a1b1f 868 main/binary-amd64/Packages
+ 5c6e533bb63339f53ba269eb833d6984600015994a7713c7d78499a6673badce 486 main/binary-amd64/Packages.gz
  f6fa67008ef9b2a47ba474dedb0c119d72bdeaf25aba829166ef8005c72c7da2 129 main/binary-amd64/Release
