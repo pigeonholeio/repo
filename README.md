@@ -25,14 +25,14 @@ sudo apt update && sudo apt install pigeonhole-cli
 
 ## RHEL / CentOS / AlmaLinux / Rocky:
 ```
-sudo rpm --import https://packages.pigeono.io/gpg.pub
+sudo rpm --import https://packages.pigeono.io/gpg.asc
 sudo tee /etc/yum.repos.d/pigeonhole.repo <<EOF
 [pigeonhole]
 name=PigeonHole Repository
-baseurl=https://packages.pigeono.io/yum/
+baseurl=https://packages.pigeono.io/rpm/
 enabled=1
 gpgcheck=1
-gpgkey=https://packages.pigeono.io/gpg.pub
+gpgkey=https://packages.pigeono.io/gpg.asc
 EOF
 sudo yum install pigeonhole-cli
 ```
