@@ -19,14 +19,14 @@ You can add this repository to your system using your package manager:
 ```
 curl -fsSL https://packages.pigeono.io/gpg.pub | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/pigeono.gpg
 echo "deb [arch=amd64] https://packages.pigeono.io/apt noble main" | sudo tee /etc/apt/sources.list.d/pigeono.list
-sudo apt update && sudo apt install pigeono
+sudo apt update && sudo apt install pigeonhole-cli
 ```
 
 
 ## RHEL / CentOS / AlmaLinux / Rocky:
 ```
 sudo rpm --import https://packages.pigeono.io/gpg.pub
-sudo tee /etc/yum.repos.d/pigeono.repo <<EOF
+sudo tee /etc/yum.repos.d/pigeonhole.repo <<EOF
 [pigeonhole]
 name=PigeonHole Repository
 baseurl=https://packages.pigeono.io/yum/
@@ -34,7 +34,7 @@ enabled=1
 gpgcheck=1
 gpgkey=https://packages.pigeono.io/gpg.pub
 EOF
-sudo yum install pigeono
+sudo yum install pigeonhole-cli
 ```
 
 # 🧭 Learn More
