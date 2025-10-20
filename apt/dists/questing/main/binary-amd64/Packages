@@ -12,7 +12,7 @@ Description: pigeonhole CLI
 Maintainer: PigeonHole <info@pigeono.io>
 
 Package: pigeonhole-cli
-Version: 1.2.2
+Version: 1.2.3
 License: MIT
 Vendor: none
 Architecture: amd64
@@ -21,10 +21,10 @@ Installed-Size: 18869
 Homepage: https://pigeono.io
 Priority: optional
 Section: default
-Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.2.2_amd64.deb
-Size: 10308576
-SHA256: 2f91b082a5a438d3d4cdd7c4bd3cbfbcdf720f009b61f4474046dbdb68a8efcd
-SHA1: b172ca23b65bdd202a36f409bb17953e64918be8
-MD5sum: a711cb1941747b01b96c86f21d584bbf
-Description: 
+Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.2.3_amd64.deb
+Size: 10308588
+SHA256: 522e76a5d529a3b82f158385cc5622816a4dbb51164f22b4a99b465965744faf
+SHA1: 47f78de156f4562fd2cf253d6ee5e16de5076692
+MD5sum: a07f97ef1ec7d08134cee6e892393cf6
+Description: \n
 

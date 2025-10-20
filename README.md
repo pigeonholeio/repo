@@ -17,8 +17,9 @@ Stay up to date with the latest CLI tools, security updates, and performance imp
 You can add this repository to your system using your package manager:
 ## Debian / Ubuntu:
 ```
-curl -fsSL https://packages.pigeono.io/gpg.pub | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/pigeono.gpg
-echo "deb [arch=amd64] https://packages.pigeono.io/apt noble main" | sudo tee /etc/apt/sources.list.d/pigeono.list
+sudo apt update && sudo apt install -y curl gnupg ca-certificates
+curl -fsSL https://packages.pigeono.io/gpg.pub | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/pigeonhole.gpg
+echo "deb [arch=amd64] https://packages.pigeono.io/apt noble main" | sudo tee /etc/apt/sources.list.d/pigeonhole.list
 sudo apt update && sudo apt install pigeonhole-cli
 ```
 
