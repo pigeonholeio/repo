@@ -4,26 +4,26 @@ Hash: SHA512
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: oracular
-Date: Mon, 02 Feb 2026 00:45:53 UTC
+Date: Mon, 02 Feb 2026 00:48:40 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Oracular
 MD5Sum:
- da6236cfd0da3698793b1e7a635108de 946 main/binary-amd64/Packages
- c4b508cff9c3d6e457e03792d9006669 535 main/binary-amd64/Packages.gz
+ 0a89cdebf9b485488d9983802c32b2f6 946 main/binary-amd64/Packages
+ 8152f8a2ef81b9a40008c2f16bfeb6eb 537 main/binary-amd64/Packages.gz
  acd9e20ee4df15968a2f0510484ff57e 132 main/binary-amd64/Release
 SHA1:
- ca8a2466da0e80a2ed0f3c121ac0e3552da6c8c5 946 main/binary-amd64/Packages
- ea82ef7b20d9d241092141ed83651596892ff52f 535 main/binary-amd64/Packages.gz
+ 4fc4c31f6ef70d60504657c7cd846f30ad4098fc 946 main/binary-amd64/Packages
+ d34d47ca6b017744ee44fb934270d608db3c3b17 537 main/binary-amd64/Packages.gz
  6303133e84dd37cfecfe19835ccbb9668eef801a 132 main/binary-amd64/Release
 SHA256:
- f4fe0922fa6d06a45375f2d7ce0d7f23fc9df83b5d2071bc2214a5e766e77358 946 main/binary-amd64/Packages
- be158c49f4073eaf113abbaec10224a0dfb0a4f0a63551687c7c2a7dad0ed9b2 535 main/binary-amd64/Packages.gz
+ 90505c4c0d086946c48aa54f163342d8493be7ab1388316cc5fc954a1d6c52a7 946 main/binary-amd64/Packages
+ 538b0d6986b013c47794ce98b83a6cbf4fe1f3ffade500056a38c967f5d7b95c 537 main/binary-amd64/Packages.gz
  5bc034cf2629d5a7020c5e33b6459631a55372e353d49e99793cc1d05f22105b 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaX/zwQAKCRC89fsNm1ur
-kPs3AQDYivJ8Yj8U3I8ONllbs1hvEcjhCgTu2vuc2yE+rIKzAQD8Cp9kUqphKhep
-ubqyxGx/GiWhs4S8ao6YkgFNLfG/Fww=
-=8OLU
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaX/0aAAKCRC89fsNm1ur
+kKP/AP0aJvlyYPKq+4IcLwhQJAX87wOv2w3+0GbjtmBGG+vtKAD/clAwBxrB+11/
+wehXh9czBDj0GD2nbnY2jPIIkbUYlQc=
+=EKQx
 -----END PGP SIGNATURE-----
