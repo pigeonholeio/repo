@@ -1,5 +1,5 @@
 Package: pigeonhole-cli
-Version: 1.2.47
+Version: 1.2.50
 License: MIT
 Vendor: none
 Architecture: amd64
@@ -8,10 +8,10 @@ Installed-Size: 18921
 Homepage: https://pigeono.io
 Priority: optional
 Section: default
-Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.2.47_amd64.deb
-Size: 10336558
-SHA256: 6b1c37c5295033d5aedf44f773abc028641d5beaa226323836ba4d10465784fd
-SHA1: bcebce18631c86a26ef2e2e93004eab833cd8725
-MD5sum: 28b362047e3b3b6f525bba1b17981009
+Filename: pool/main/p/pigeonhole-cli/pigeonhole-cli_1.2.50_amd64.deb
+Size: 10336530
+SHA256: 08d278310f997f756f46d7f5b6ed862d348818e0ee7bdd8d39c06aec571beab6
+SHA1: b298b22f3ae9297dc3cb759a5834ee3f0addd0ce
+MD5sum: f22b4a264449c4c26a8479c626b89cce
 Description: PigeonHole cli is the modern way to send secrets, files or any text securely
 
