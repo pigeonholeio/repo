@@ -1,19 +1,19 @@
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: oracular
-Date: Wed, 04 Feb 2026 00:34:32 UTC
+Date: Wed, 04 Feb 2026 00:36:10 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Oracular
 MD5Sum:
- 6cb962fbdee12ab8c8f168a6280c614d 550 main/binary-amd64/Packages
- 7f463b7a5f95b63e043417383b4fb08f 395 main/binary-amd64/Packages.gz
+ 620d83260af2ecae4ab161da43efc772 550 main/binary-amd64/Packages
+ 87b84af0fa4ecd2113943452f849e033 392 main/binary-amd64/Packages.gz
  acd9e20ee4df15968a2f0510484ff57e 132 main/binary-amd64/Release
 SHA1:
- 2f5aad0b99f7395615366cd4749e88775b32d29c 550 main/binary-amd64/Packages
- 215f38367009d3787503d9f1c3019374ad746c9c 395 main/binary-amd64/Packages.gz
+ 0f7585a8c6dc89ad40df01bce5eaff728971f974 550 main/binary-amd64/Packages
+ a03d9754072543d73a5365e05bedb2ebe3d14592 392 main/binary-amd64/Packages.gz
  6303133e84dd37cfecfe19835ccbb9668eef801a 132 main/binary-amd64/Release
 SHA256:
- d6578ff629424622edf909b617bdba9f92efaf71ac2ab6fb123a58b831bf9a95 550 main/binary-amd64/Packages
- c1a566815389edfcaa4ab37b7cf8f046c6a85447b3c8dcee995b0512e7b51540 395 main/binary-amd64/Packages.gz
+ d8fdcccad400550952f15dc3779d34d8275996b6be489ad21c626be8e9e77638 550 main/binary-amd64/Packages
+ 88af236d901635c365fce827384a8ed7531c3b534993014f97b58e74adbcffe8 392 main/binary-amd64/Packages.gz
  5bc034cf2629d5a7020c5e33b6459631a55372e353d49e99793cc1d05f22105b 132 main/binary-amd64/Release
