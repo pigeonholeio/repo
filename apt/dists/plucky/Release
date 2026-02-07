@@ -1,19 +1,19 @@
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: plucky
-Date: Sat, 07 Feb 2026 21:18:12 UTC
+Date: Sat, 07 Feb 2026 21:25:56 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Plucky
 MD5Sum:
- 39c9a12e5ce4b2612b3d5fbd4bd30965 550 main/binary-amd64/Packages
- 49538e36337a58998d194ff180ce0287 393 main/binary-amd64/Packages.gz
+ c0f8e9105f615baa2086d7ad1aba8aca 550 main/binary-amd64/Packages
+ c3c0a9d6bc1a36c661389d5a81b557ff 393 main/binary-amd64/Packages.gz
  e36a5a8d122efb0c7644fe1a5ffac8b9 130 main/binary-amd64/Release
 SHA1:
- 3f3a453628c7d962963cc6202c2e382f214b7104 550 main/binary-amd64/Packages
- c6f1f1c47ed98b7666bcfc5402b3144c7bf7df6a 393 main/binary-amd64/Packages.gz
+ c0ad224d823393331b623d2c7c287ef8cacccbf2 550 main/binary-amd64/Packages
+ d90480d665c024524980d9fcd3a21cc3b4897873 393 main/binary-amd64/Packages.gz
  f1605f263a8b27f32e6ee12e13de7768fa953822 130 main/binary-amd64/Release
 SHA256:
- b8d1fd6ad25ea7e670f78a89206df54814d8379330f2728cb16f4768161b6c43 550 main/binary-amd64/Packages
- aaa0851d303a6a6dec9ec388647a6fbb863589f52cdd50768a27e010e0e632ba 393 main/binary-amd64/Packages.gz
+ dc655f81e6103aea14a6985c56a8a6a20be031d625c692960d2da27c991eee87 550 main/binary-amd64/Packages
+ bc338fde8a97c49d7fc4d4055b761621d1610a1f5395c151219745e16b3c80c3 393 main/binary-amd64/Packages.gz
  9025dd0412ca2c3b2373cc062f7310e37a7243602b494cae933b3070480b4384 130 main/binary-amd64/Release
