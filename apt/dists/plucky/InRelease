@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: plucky
-Date: Mon, 23 Feb 2026 21:29:22 UTC
+Date: Sat, 28 Feb 2026 13:55:46 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Plucky
@@ -22,8 +22,8 @@ SHA256:
  9025dd0412ca2c3b2373cc062f7310e37a7243602b494cae933b3070480b4384 130 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaZzGsgAKCRC89fsNm1ur
-kGMsAQDzoL1stRJyIMnl/alRVpbZnwgf8AyuGqYqVA59PsEc+gEA2saOdEouWOBo
-7veN/+94xBsVhCaP9ZwaK4J8ie99BgQ=
-=VF2P
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaaLz4gAKCRC89fsNm1ur
+kFwYAQDG4EW/2XGcWJwp/gOOnTfGp0DwwuVFJkqsog06H1kxLwD+KpbPJzDzkI1L
+eEhATKKVFA0C5poWfRcAB8ejng+pqgM=
+=+uqg
 -----END PGP SIGNATURE-----
