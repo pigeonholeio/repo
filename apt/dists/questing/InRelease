@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: questing
-Date: Wed, 11 Mar 2026 21:51:03 UTC
+Date: Sat, 16 May 2026 06:08:37 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Questing
@@ -22,8 +22,8 @@ SHA256:
  018d9927dc1fe5501aed89518ca985153c11abc6165a4f5b2be8e1c28d8fb986 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCabHjxwAKCRC89fsNm1ur
-kMuPAQCrVxqt1SoAj2abe2ki+f1WxcqOoqgP9Z5zK2W/PhuLmQEAge5pi2MYm9wQ
-DAsV3JezADjaUEIl1PAHaNoXqbUcHQw=
-=gtlv
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaggJ5QAKCRC89fsNm1ur
+kL1qAQC0EvZqy2SY3tsVHPRMcApHzh9Z/zFqXSkBPSNtFSMljAD/UirAKpDesFDz
+9XTvl1WK6GmgMjmID9Q/ChR6UDhOBwo=
+=ksc7
 -----END PGP SIGNATURE-----

@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: noble
-Date: Wed, 11 Mar 2026 21:51:03 UTC
+Date: Sat, 16 May 2026 06:08:37 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Noble
@@ -22,8 +22,8 @@ SHA256:
  f6fa67008ef9b2a47ba474dedb0c119d72bdeaf25aba829166ef8005c72c7da2 129 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCabHjxwAKCRC89fsNm1ur
-kCEQAQCU8BYJl//co6ypwIWa1u8bw7t2XXHJPOSiVQe0KtKj1QEA93nBXPJ5VVEb
-GnnFLSBo+GZGqkBwIAARUXzhHf44OgM=
-=4CoT
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaggJ5QAKCRC89fsNm1ur
+kDvaAP4rGUXa8WiaU6uapPDGNCrIl0r40QZ1oy5IRnbq/1vBNgEAjwGXyDUnLtXF
+OnfmjiV0RHmCfIBeyV9Thrq1C7y8+ww=
+=Rfs+
 -----END PGP SIGNATURE-----

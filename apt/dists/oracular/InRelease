@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: Pigeonhole
 Label: Pigeonhole
 Codename: oracular
-Date: Wed, 11 Mar 2026 21:51:03 UTC
+Date: Sat, 16 May 2026 06:08:37 UTC
 Architectures: amd64
 Components: main
 Description: Pigeonhole APT repository for Ubuntu Oracular
@@ -22,8 +22,8 @@ SHA256:
  5bc034cf2629d5a7020c5e33b6459631a55372e353d49e99793cc1d05f22105b 132 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCabHjxwAKCRC89fsNm1ur
-kJTaAPwP20GcCARz8cxl67zF+z8hHpXroYEqmqcUQNQ4NNtUJAEAybgvLTZv1bSB
-uCOEJ/4cw8lpIwCu7jbJbyvPVZVvigQ=
-=G3J6
+iHUEARYKAB0WIQQfqt3HdzZwXvfj7zS89fsNm1urkAUCaggJ5QAKCRC89fsNm1ur
+kJuGAQCAflniw+RmYzRrolHP50KmA8R2Hr5RRFa0mVqwrmdctgD+I0xl1Z/WVVIE
+YVo7VrZgL/5o68kTdWNQo3Jy8cR++AI=
+=G3M3
 -----END PGP SIGNATURE-----
